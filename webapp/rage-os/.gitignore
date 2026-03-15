@@ -46,3 +46,6 @@ python-ai/__pycache__/
 python-ai/venv/
 python-ai/*.pyc
 python-ai/.env
+
+# mcp
+.vscode/mcp.json
